@@ -1,8 +1,8 @@
-package org.L2X9.EventCore.AntiLag;
+package org.yourpackageName.EventCore.AntiLag;
 
-import org.L2X9.EventCore.Main;
-import org.L2X9.EventCore.Utils;
-import org.L2X9.EventCore.VilationUtils;
+import org.yourpackageName.EventCore.Main;
+import org.yourpackageName.EventCore.Utils;
+import org.yourpackageName.EventCore.VilationUtils;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
